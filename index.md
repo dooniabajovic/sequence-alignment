@@ -3,6 +3,14 @@ title: Unit 1
 layout: home
 ---
 
+## Unit 1: Introduction to Sequence Alignment and Why It Matters
+
+#Overall learning outcomes of Unit 1 
+:white_check_mark: Explain why comparing biological sequences reveals function, ancestry and variation, and place alignment within the central dogma.
+:white_check_mark: Describe and hand-compute the Needleman-Wunsch (global) and Smith-Waterman (local) algorithms, and choose between them for a given question.
+:white_check_mark: Describe how practical aligners relate to those classical algorithms.
+:white_check_mark: Run a complete workflow from raw sequencer output (BCL) to FASTQ to aligned BAM using two different aligners, and compare the results.
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
